@@ -42,8 +42,8 @@ Following your self-paced reading of the book, you may begin practicing.
 1. [Apartments](https://cses.fi/problemset/task/1084)  
 2. [Maximum Subarray Sum](https://cses.fi/problemset/task/1643/)  
 3. [Missing Coin Sum](https://cses.fi/problemset/task/2183)  
-4. [Permutation Inversions](https://cses.fi/problemset/task/2216/) and [Collecting Numbers](https://cses.fi/problemset/task/2217/)  
-5. [Movie Festival](https://cses.fi/problemset/task/1619/)  
+4. [Collecting Numbers](https://cses.fi/problemset/task/2216/) and [Collecting Numbers II](https://cses.fi/problemset/task/2217/)  
+5. [Restaurant Customers](https://cses.fi/problemset/task/1619/)  
 
 ---
 
