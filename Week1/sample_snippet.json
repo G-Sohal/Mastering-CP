@@ -1,0 +1,35 @@
+{
+	"Default C++ Template": {
+	  "prefix": ["basic", "cppdefault"],
+	  "body": [
+		"#include <iostream>",
+		"",
+		"using namespace std;",
+		"",
+		"int main() {",
+			"ios::sync_with_stdio(false);cin.tie(nullptr);",
+		"    // Your code here",
+		"    return 0;",
+		"}"
+	  ],
+	  "description": "Default C++ template"
+	},
+	"Practice": {
+		"prefix": ["pp", "practice"],
+		"body": [
+		  "#include<bits/stdc++.h>",
+		  "#define ll long long int",
+		  "#define out(a,n,k) for(int lambda=0;lambda<n;lambda++){cout<<a[lambda]<<k;}",
+		  "#define ain(a,n) for(int lambda=0;lambda<n;lambda++){cin>>a[lambda];}",
+		  "#define endl '\\n'",
+		  "using namespace std;",
+		  "int main()",
+		  "{",
+		  "   ios::sync_with_stdio(false);cin.tie(nullptr);",
+		  "}"
+		],
+		"description": "Practice"
+	  }
+
+}
+  
