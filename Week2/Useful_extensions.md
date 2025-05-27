@@ -10,7 +10,7 @@
    - The most useful extension in my opinion. Whe reading a problem statement, you just have to click the extension button to create a file for than problem, fetch all the provided testcases, and also easily run them via just a button to get PASS FAIL verdict along with time taken to run. It can parse pretty much any CP website/ Online Judge that you would ever use.
    - **Setup**: Download the [Competitive Companion Extension](https://chromewebstore.google.com/detail/cjnmckjndlpiamhfimnnjmnckgghkjbl?utm_source=item-share-cb) from Chrome web store. You also require another extension on your VScode, [Competitive Programming Helper](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) to display the fetched data. You might face some issues setting it up, but there are plenty tutorials online.
 2. **Carrot Extension**  
-   - Not really a must have extension. It allows you to see your expected rating change during a contest. The actual rating change is genrally off 3-4 points only.  
+   - Not really a must have extension. It allows you to see your expected rating change during a contest. The actual rating change is generally off 3-4 points only.  
    - **Setup**: Just download the extension [Carrot](https://chromewebstore.google.com/detail/gakohpplicjdhhfllilcjpfildodfnnn?utm_source=item-share-cb)
 
 3. **CF Analytics**  
