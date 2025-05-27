@@ -1,7 +1,5 @@
 # Extensions
 
-This README provides an overview of some useful Chrome and VS Code extensions.
-
 **Advice:** As Safari does not really have a good support for most of the extensions, incase you do CP on Safari, it might be the right time to switch over to Chrome or Firefox. Firefox has by far the best support for extensions, and even allows submissions right from your VScode.
 
 ---
