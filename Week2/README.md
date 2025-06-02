@@ -15,7 +15,7 @@ You can skip the Dynamic Programming part in Chapter 10.
 2. [Nested Ranges Check](https://cses.fi/problemset/task/2168)  
 3. [Nested Ranges Count](https://cses.fi/problemset/task/2169)  
 4. [Room Allocation](https://cses.fi/problemset/task/1164)  
-5. [Reading Books](https://cses.fi/problemset/result/13080729/)  
+5. [Reading Books](https://cses.fi/problemset/task/1631)  
 
 ---
 
