@@ -53,5 +53,20 @@ You can skip the Dynamic Programming part in Chapter 10.
 2. [Find the Different Permutation](https://codeforces.com/problemset/problem/2085/C)  
 3. [Time Management](https://codeforces.com/problemset/problem/2074/C)
 
+### Some more questions on Bit Manipulation
+
+1. [Mocha and Math](https://codeforces.com/problemset/problem/1559/A)
+2. [Raising Bacteria](https://codeforces.com/problemset/problem/579/A)
+3. [AND 0, Sum Big](https://codeforces.com/problemset/problem/1514/B)
+4. [Fedor and New Game](https://codeforces.com/problemset/problem/467/B)
+5. [Xor-tree](https://codeforces.com/problemset/problem/430/C)
+6. [Rock and Lever](https://codeforces.com/problemset/problem/1420/B)
+7. [AND, OR and square sum](https://codeforces.com/problemset/problem/1368/D)
+
+### 📘 Blog for useful functions and their efficient implementation
+
+- [Codeforces Blog Entry 95490](https://codeforces.com/blog/entry/95490)
+
+
 
 ---
