@@ -1,4 +1,4 @@
-# 📚 Week 4: Graphs
+# 📚 Week 5: Graphs
 
 ## ✅ Objectives
 - Develop a solid understanding of fundamental graph algorithms.
