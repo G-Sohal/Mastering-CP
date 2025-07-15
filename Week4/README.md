@@ -18,8 +18,11 @@
 ## 🧠 Practice Problems
 Solve all problems from the **CSES - Dynamic Programming** section
 
-More Problems from CF will be added shortly.
-
+### ➕ Additional Codeforces Problems
+- [Codeforces 2121E - Sponsor of Your Problems](https://codeforces.com/problemset/problem/2121/E)
+- [Codeforces 2115A - Gellyfish and Flaming Peony](https://codeforces.com/problemset/problem/2115/A)
+- [Codeforces 2114F - Small Operations](https://codeforces.com/problemset/problem/2114/F)
+- [Codeforces 2071D1 - Infinite Sequence (Easy Version)](https://codeforces.com/problemset/problem/2071/D1)
 
 ---
 
